@@ -1,4 +1,3 @@
-
 // Output
 int redPin = 9;   // Red LED,   connected to digital pin 9
 int grnPin = 10;  // Green LED, connected to digital pin 10
