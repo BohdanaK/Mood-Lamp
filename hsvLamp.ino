@@ -27,10 +27,7 @@ void loop()
     hue = (hue + 1) % 360;  
 }
 
-
-
 // BELOW THIS LINE IS THE HSV MATH
-
 void hsvToRgb(unsigned int h, unsigned int s, unsigned int v){
     int hI, a, vMin, vInc, vDec, out;
 
